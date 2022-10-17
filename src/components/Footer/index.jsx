@@ -38,12 +38,12 @@ export default function Footer() {
                             </Content>
                         </Card>
                     </Cards_item>
-                </Container>
-                <Content>
-                    <Image src="/img.png" width="200px" height="80px"></Image>
-                    <Image src="/img.png" width="200px" height="80px"></Image>
-                    <Image src="/img.png" width="200px" height="80px"></Image>
+                    <Content>
+                        <Image src="/img.png" width="200px" height="80px"></Image>
+                        <Image src="/img.png" width="200px" height="80px"></Image>
+                        <Image src="/img.png" width="200px" height="80px"></Image>
                 </Content>
+                </Container>
             </Main>
         </footer>
     );
